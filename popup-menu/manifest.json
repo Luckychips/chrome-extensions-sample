@@ -1,6 +1,6 @@
 {
-  "name": "marketit-translate-helper",
-  "description": "마켓잇 앱의 번역을 돕는 일을 합니다.",
+  "name": "popup-item-click-new-tab",
+  "description": "",
   "version": "1.0.0",
   "permissions": ["tabs", "<all_urls>"],
   "browser_action": {
