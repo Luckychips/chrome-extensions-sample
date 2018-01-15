@@ -1,0 +1,18 @@
+#apps {
+    width: 160px;
+}
+
+#apps .menu-item {
+    padding: 10px;
+    cursor: pointer;
+}
+
+#apps .menu-item:hover {
+    border: 1px dotted #dddddd;
+}
+
+#apps img {
+    vertical-align: middle;
+    width: 24px;
+    margin-right:10px;
+}
