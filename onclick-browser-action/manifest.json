@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "onclick-browser-action",
+  "description": "",
+  "version": "1.0.0",
+  "minimum_chrome_version": "23",
+  "icons": {
+    "128": "assets/app.png"
+  },
+  "browser_action": {
+    "default_icon": "assets/app.png",
+    "default_title": ""
+  },
+  "background": {
+    "scripts": ["app.config.js"],
+    "persistent": false
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
